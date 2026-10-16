@@ -8,3 +8,7 @@ ARMSTRONG NUMBER :- If the sum of powers of the digits in a number is equal to t
 
 Day-3 :
 NEON NUMBER :- If the sum of digits in a square of a number is equal to the original number then that number is called Neon number 
+
+Day-4 :
+CENTER PYRAMID :- To print a Pyramid shape pattern with stars " * "
+INVERTED PYRAMID :- To print a Inverted Pyramid shape with stars " * " in reverse order
