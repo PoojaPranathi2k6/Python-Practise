@@ -16,3 +16,6 @@ INVERTED PYRAMID :- To print a Inverted Pyramid shape with stars " * " in revers
 Day-5 :
 DIAMOND PATTERN :- Printing stars "*" to form a Diamond shape
 
+Day-6 :
+HALF DIAMOMND :- Printing only a half pattern in a Diamond 
+INVERTED HALF DIAMOND :- Printing half diamond in reverse order
