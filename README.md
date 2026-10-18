@@ -12,3 +12,7 @@ NEON NUMBER :- If the sum of digits in a square of a number is equal to the orig
 Day-4 :
 CENTER PYRAMID :- To print a Pyramid shape pattern with stars " * "                                                                                 
 INVERTED PYRAMID :- To print a Inverted Pyramid shape with stars " * " in reverse order
+
+Day-5 :
+DIAMOND PATTERN :- Printing stars "*" within Diamond shape
+
