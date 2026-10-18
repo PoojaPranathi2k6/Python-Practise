@@ -14,5 +14,5 @@ CENTER PYRAMID :- To print a Pyramid shape pattern with stars " * "
 INVERTED PYRAMID :- To print a Inverted Pyramid shape with stars " * " in reverse order
 
 Day-5 :
-DIAMOND PATTERN :- Printing stars "*" within Diamond shape
+DIAMOND PATTERN :- Printing stars "*" to form a Diamond shape
 
