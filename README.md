@@ -19,3 +19,6 @@ DIAMOND PATTERN :- Printing stars "*" to form a Diamond shape
 Day-6 :
 HALF DIAMOMND :- Printing only a half pattern in a Diamond 
 INVERTED HALF DIAMOND :- Printing half diamond in reverse order
+
+Day-7 :
+Perfect Number :-  When a number having the sum of it's positive factors excluding the number is equal to the original number, then it is said to be a perfect number 
